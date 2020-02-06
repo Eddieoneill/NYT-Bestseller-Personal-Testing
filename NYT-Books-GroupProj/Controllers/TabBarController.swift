@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TabBarController.swift
 //  NYT-Books-GroupProj
 //
 //  Created by Christian Hurtado on 2/5/20.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class BestSellerController: UIViewController {
+class TabBarController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
     }
-
-
+    
 }
-
