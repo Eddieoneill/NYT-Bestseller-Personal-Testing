@@ -65,7 +65,6 @@
 			isa = PBXGroup;
 			children = (
 				6C47125523EC641C005FE761 /* Testing */,
-				6C4AC86623EB6F9500781D7D /* Secrets */,
 				1343D0F323EB549D00CFC68E /* NYT-Books-GroupProj */,
 				1343D0F223EB549D00CFC68E /* Products */,
 			);
@@ -149,13 +148,6 @@
 			children = (
 			);
 			path = Testing;
-			sourceTree = "<group>";
-		};
-		6C4AC86623EB6F9500781D7D /* Secrets */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Secrets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
